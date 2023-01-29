@@ -1,0 +1,3 @@
+- pake php versi 7.4.28 gan
+- bikin file .env yang isinya sama kaya .env.example
+- npm install dulu gan, soalnya node_modulenya ga di push
